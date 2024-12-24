@@ -6,7 +6,7 @@ while True:
         if i % d == 0:
             print(i)
 
-    sum = int(input("Exit Press 0,continue Press 1: "))
+    sum = int(input("Exit Press 0,Continue Press 1: "))
     if sum == 0:
             break
         

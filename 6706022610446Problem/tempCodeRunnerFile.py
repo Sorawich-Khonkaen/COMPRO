@@ -1,1 +1,1 @@
-start = time.time()
+m = number1 + number2
